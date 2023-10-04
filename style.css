@@ -306,23 +306,31 @@ body{
 }
 
 .skills .content .col-right .bar .css:before{
-  width: 90%;
+  width: 85%;
   background: #0c73b8;
 }
 
 .skills .content .col-right .bar .javascript:before{
-  width: 80%;
+  width: 60%;
   background: #e3a324;
 }
 
-.skills .content .col-right .bar .jquery:before{
-  width: 80%;
+.skills .content .col-right .bar .laravel:before{
+  width: 60%;
   background: #30dd6d;
 }
 
 .skills .content .col-right .bar .php:before{
-  width: 75%;
-  background: #6d7eb8;
+  width: 55%;
+  background: #96a8e4;
+}
+.skills .content .col-right .bar .illustartor:before{
+  width: 73%;
+  background: #e37900;
+}
+.skills .content .col-right .bar .photoshop:before{
+  width: 73%;
+  background: #0439e8;
 }
 
 .services .content{
